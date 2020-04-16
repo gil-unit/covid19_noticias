@@ -1,2 +1,2 @@
-# covida19_noticias
+# covid19_noticias
 Landing Page Sobre COVID-10
